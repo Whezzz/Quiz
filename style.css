@@ -1,0 +1,11 @@
+.padd{
+    margin: 10px;
+}
+.midText{
+    text-align: center;
+}
+.midContent{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
